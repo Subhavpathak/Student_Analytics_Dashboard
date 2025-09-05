@@ -41,4 +41,14 @@ npm run dev
 ✅ Professional Dashboard
 ✅ Cloud Deployment Ready
 
+## 📸 Screenshots
+
+### Login Page  
+![Login Page](screenshots/login_page.png)
+
+### Dashboard  
+![Dashboard](screenshots/dash_board.png)
+
+
+
 
