@@ -50,5 +50,15 @@ npm run dev
 ![Dashboard](screenshots/dash_board.png)
 
 
+---
+
+## 📞 Contact
+
+- **Email:** subhavpathak18@gmail.com  
+- **LinkedIn:** [Subhav Kumar](https://www.linkedin.com/in/subhav-kumar-706401200/)   
+
+---
+
+> Made by **Subhav Kumar**
 
 
