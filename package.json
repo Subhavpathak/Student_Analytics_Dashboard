@@ -1,0 +1,17 @@
+{
+  "name": "student-analytics-dashboard",
+  "version": "1.0.0",
+  "description": "Complete MERN Stack Student Analytics Dashboard",
+  "scripts": {
+    "install-all": "npm install && cd backend && npm install && cd ../frontend && npm install",
+    "dev": "concurrently \"cd backend && npm run dev\" \"cd frontend && npm run dev\"",
+    "build": "cd frontend && npm run build",
+    "start": "cd backend && npm start"
+  },
+  "keywords": ["mern", "dashboard", "analytics", "education"],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
